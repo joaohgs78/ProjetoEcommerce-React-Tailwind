@@ -65,7 +65,7 @@ const Header = () => {
 
   return (
     <header className="fixed top-0  w-full z-10 shadow-md">
-      <nav className="flex items-center justify-between flex-wrap  bg-[#31537b]  ">
+      <nav className="flex items-center justify-between flex-wrap  bg-[#31537b]   ">
         <div className="flex items-center text-white ml-3  " >
           <div className="">
             <span className="" >
